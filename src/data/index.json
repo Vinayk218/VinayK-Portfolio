@@ -1,0 +1,91 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "C"        
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "C++"        
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Java"       
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "C#"        
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "Python"       
+    },
+    {
+      "id": "6",
+      "src": "./img/feather-pen-1.png",
+      "title": "HTML"       
+    },
+    {
+      "id": "7",
+      "src": "./img/feather-pen-1.png",
+      "title": "CSS"        
+    },
+    {
+      "id": "8",
+      "src": "./img/feather-pen-1.png",
+      "title": "JavaScript"        
+    },
+    {
+      "id": "9",
+      "src": "./img/feather-pen-1.png",
+      "title": "React JS"       
+    },
+    {
+      "id": "10",
+      "src": "./img/feather-pen-1.png",
+      "title": "MySQL"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "description": "Quality Lab Technician",
+      "author_name": "AT&S India Pvt. Ltd.",
+      "author_designation": "Supported laboratory test preparations and analyzed data using specialized software like SAP. Provided crucial insights to quality control procedures and maintained accurate records for quality documentation."
+    },
+    {
+      "id": "2",
+      "description": "Associate Analyst",
+      "author_name": "Namsbel Global Pvt. Ltd.",
+      "author_designation": "Responsible for gathering data from various sources, ensuring accuracy through cleaning and transformation. Analyze data to identify patterns and create well-structured reports to effectively communicate analysis results."
+    }
+  ]
+}
