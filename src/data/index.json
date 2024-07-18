@@ -2,82 +2,78 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
+      "src": "./img/C.png",
       "title": "C"        
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
+      "src": "./img/C++.png",
       "title": "C++"        
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "Java"       
+      "src": "./img/Csha.png",
+      "title": "C#"       
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "C#"        
+      "src": "./img/Python.png",
+      "title": "Python"        
     },
     {
       "id": "5",
-      "src": "./img/feather-pen-1.png",
-      "title": "Python"       
+      "src": "./img/Java.png",
+      "title": "Java"       
     },
     {
       "id": "6",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/Html.png",
       "title": "HTML"       
     },
     {
       "id": "7",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/Css.png",
       "title": "CSS"        
     },
     {
       "id": "8",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/JS.png",
       "title": "JavaScript"        
     },
     {
       "id": "9",
-      "src": "./img/feather-pen-1.png",
-      "title": "React JS"       
-    },
-    {
-      "id": "10",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/Sql.png",
       "title": "MySQL"
     }
   ],
+  
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "NIDS Using Machine Learning",
+      "description": "Analyzed 1.5 lakh network attack instances, and implemented multiple classifiers for mitigation strategies.",
+      "link": "https://github.com/Vinayk218/NIDS-using-ML"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Django-based Blogging Website",
+      "description": "Developed a responsive Django-based blogging website with CRUD operations, advanced content editing, and user authentication.",
+      "link": "https://github.com/Vinayk218/Django-based-Blogging-Site"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "News App using .Net MAUI",
+      "description": "Built a cross-platform News app for Android and Windows using .Net MAUI, GNews API, and MVVM architecture in Visual Studio 2022.",
+      "link": "https://github.com/Vinayk218/News-App-using-.Net-MAUI"
     }
   ],
   "testimonial": [
     {
       "id": "1",
-      "description": "Quality Lab Technician",
+      "description": "Quality Engineering Trainee (DET)",
       "author_name": "AT&S India Pvt. Ltd.",
       "author_designation": "Supported laboratory test preparations and analyzed data using specialized software like SAP. Provided crucial insights to quality control procedures and maintained accurate records for quality documentation."
     },

@@ -1,13 +1,21 @@
 export default function ContactMe() {
-    return (
-      <section id="Contact" className="contact--section">
-        <div>
-          <p className="sub--title">Get In Touch</p>
-          <h2>Contact Me</h2>
-          <p className="text-lg">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, odit.
-          </p>
-        </div>
-        </section>
+  const email = "vinay2182001@gmail.com";
+
+  return (
+    <section id="Contact" className="contact--section">
+      <div className="contact--content">
+        <p className="sub--title">Get In Touch</p>
+        <h2>Contact Me</h2>
+        <p className="text-lg">
+          Got something exciting to share or discuss?
+        </p>
+        <p className="text-lg">
+          I'm all ears!
+        </p>
+        <a href={`mailto:${email}`} className="contact--link">
+          Start by saying hi
+        </a>
+      </div>
+    </section>
   );
 }
